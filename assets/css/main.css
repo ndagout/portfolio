@@ -3208,8 +3208,9 @@ input, select, textarea {
 		}
 	#books2 {
 		padding: 0 0em 3em 0;
-		display: block;
-		align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 /* Footer */
