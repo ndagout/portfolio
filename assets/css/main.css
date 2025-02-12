@@ -2846,9 +2846,9 @@ input, select, textarea {
 		#main .inner .memoji img{
 			display: block;
 			float: left;
-			width: 15em;
-			height: 15em;
-			margin-bottom: 5em;
+			width: 18em;
+			height: 18em;
+			margin-bottom: 3em;
 			
 		}
 
@@ -3208,6 +3208,8 @@ input, select, textarea {
 		}
 	#books2 {
 		padding: 0 0em 3em 0;
+		display: block;
+		align: center;
 	}
 
 /* Footer */
