@@ -3278,8 +3278,8 @@ input, select, textarea {
 					/* headshot */
 	#main .inner .memoji img{
 		float: left;
-		height: 40%;
-		width: 50%;
+		height: 30%;
+		width: 40%;
 		padding-right: 3em;
 	
 	}
