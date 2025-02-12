@@ -2845,8 +2845,9 @@ input, select, textarea {
 
 		#main .inner .memoji .img{
 			display: block;
-			width: 20em;
-			height: 20em;
+			float: left;
+			width: 15em;
+			height: 15em;
 			margin-bottom: 5em;
 			
 		}
