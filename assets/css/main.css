@@ -3276,14 +3276,14 @@ input, select, textarea {
 					}
 
 					/* headshot */
-	#main .inner .headshot{
+	#main .inner .memoji img{
 		float: left;
 		height: 40%;
 		width: 50%;
 		padding-right: 3em;
 	
 	}
-	.books2{
+	.books{
 		text-align: center;	
 	}
 	.books ul{
