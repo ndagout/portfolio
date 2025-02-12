@@ -2843,7 +2843,7 @@ input, select, textarea {
 
 		}
 
-		#main .inner .memoji .img{
+		#main .inner .memoji img{
 			display: block;
 			float: left;
 			width: 15em;
